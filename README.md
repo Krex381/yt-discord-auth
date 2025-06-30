@@ -55,6 +55,7 @@ Create a `.env` file with the following configuration:
 DISCORD_TOKEN=your_discord_bot_token_here
 GUILD_ID=your_discord_server_id
 ROLE_ID=your_special_role_id
+LOG_CHANNEL_ID=your_log_channel_id
 
 # Google OAuth Configuration
 CLIENT_ID=your_google_oauth_client_id
