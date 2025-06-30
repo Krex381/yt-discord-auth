@@ -41,8 +41,8 @@ A comprehensive Discord bot system that provides **triple verification** for Dis
 ### 1. Clone and Install Dependencies
 
 ```bash
-git clone <repository-url>
-cd oauth-youtube
+git clone https://github.com/Krex381/yt-discord-auth
+cd yt-discord-auth
 npm install
 ```
 
@@ -188,7 +188,7 @@ This command will:
 ## 🏗 System Architecture
 
 ```
-oauth-youtube/
+yt-discord-auth/
 ├── bot/                           # Discord Bot Module
 │   ├── commands/                  # Slash Commands
 │   │   ├── verify.js             # YouTube OAuth verification
@@ -434,7 +434,7 @@ We welcome contributions! Please follow these steps:
 
 1. **Fork the Repository**
    ```bash
-   git fork <repository-url>
+   git fork https://github.com/Krex381/yt-discord-auth
    ```
 
 2. **Create Feature Branch**
